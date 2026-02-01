@@ -90,7 +90,7 @@ export const translations = {
       privacy: 'Confidentialité',
       contact: 'Contact',
       follow: 'Suivez-nous',
-      copyright: '© 2024 Vases d\'Honneur. Tous droits réservés.'
+      copyright: 'Henoc Elysee GUEI'
     }
   },
   en: {
