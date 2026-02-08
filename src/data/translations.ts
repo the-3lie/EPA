@@ -34,7 +34,7 @@ export const translations = {
         title: 'Live du dimanche',
         description: 'voir tous les lives du culte de célébration de chaque dimanche sur youtube '
       },
-      participate: 'Participer'
+      participate: 'voir'
     },
     academy: {
       title: 'C\'EST QUE LES VENDREDIS',
@@ -90,7 +90,7 @@ export const translations = {
       privacy: 'Confidentialité',
       contact: 'Contact',
       follow: 'Suivez-nous',
-      copyright: 'Henoc Elysee GUEI'
+      copyright: '@ Henoc Elysee GUEI'
     }
   },
   en: {
